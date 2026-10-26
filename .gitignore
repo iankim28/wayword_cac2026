@@ -1,0 +1,7 @@
+data/private/
+do_not_track/
+.cursor/
+__pycache__/
+*.pyc
+.DS_Store
+Wayword_Ian_Kim_CAC2026.mp4
